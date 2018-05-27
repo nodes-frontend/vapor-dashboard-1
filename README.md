@@ -1,4 +1,4 @@
-# Vapor Example
+# ⛔️ [DEPRECATED] Vapor Example
 
 Fork this example project as a boilerplate for working with Vapor.
 
