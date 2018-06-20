@@ -1,4 +1,5 @@
-# ⛔️ [DEPRECATED] Vapor Example
+# Vapor Example
+_Not maintained by Nodes anymore_
 
 Fork this example project as a boilerplate for working with Vapor.
 
